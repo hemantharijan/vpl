@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360230045996",
+    "firebase_url": "https://vpledgeotp.firebaseio.com",
+    "project_id": "vpledgeotp",
+    "storage_bucket": "vpledgeotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360230045996:android:5451c824650a610a8cc489",
+        "android_client_info": {
+          "package_name": "com.example.vpledge_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360230045996-9nkmdktdtocvvjdk7ipj6lg4c3e6ksqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vpledge_otp",
+            "certificate_hash": "91c143c29fdb2ef3e552708a7f23640856622eee"
+          }
+        },
+        {
+          "client_id": "360230045996-vsegskpk6i03s13affrpooebtt298eeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7GaeKv4bTZMIFF4N6bUr6oSj3U9p_h8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360230045996-vsegskpk6i03s13affrpooebtt298eeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
